@@ -124,6 +124,9 @@ Key Findings
 
 Bias, Ethics, and Limitations
 
+Model checkpoints are not included due to their large size, but can be regenerated using the training notebook.
+
+
 - Identity-related words (e.g., “gay”, “Muslim”) may cause false positives.
 
 - Dataset imbalance leads to weaker performance on rare labels.
